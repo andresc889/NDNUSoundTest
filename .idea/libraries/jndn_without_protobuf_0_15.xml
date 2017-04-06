@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jndn-without-protobuf-0.15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jndn-without-protobuf-0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
